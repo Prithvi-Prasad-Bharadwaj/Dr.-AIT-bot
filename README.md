@@ -5,6 +5,7 @@ People Contributed :-
   Prerana V Deshpande [1DA21iS035]
   Prithvi P Bharadwaj [1DA21iS036]
   Nithin Suresh [1DA21iS033]
+  Raksha K [1DA21IS039]
 
 Project Dependencies/Requirements
 To successfully run this chatbot, ensure the following dependencies are installed:
